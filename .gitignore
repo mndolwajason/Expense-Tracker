@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Node
+node_modules/
+npm-debug.log*
+.env
+
+# OS
+.DS_Store
+
+# Keys (never commit)
+*.pem
+
